@@ -1,0 +1,4 @@
+**/__pycache__/
+RDATA/
+*.Rdata
+**/.ipynb_checkpoints/
